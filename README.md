@@ -35,17 +35,8 @@ This project demonstrates a sophisticated agentic workflow that combines reasoni
 
 ### Agent Flow
 
-```
-User Input → Agent Reasoning → Decision Point
-                                    ↓
-                            Tool Execution Needed?
-                            ↙              ↘
-                          YES              NO
-                           ↓               ↓
-                       Execute Tools    Return Result
-                           ↓
-                       Back to Reasoning
-```
+<img width="203" height="249" alt="flow" src="https://github.com/user-attachments/assets/a5689ce0-45da-4eb0-821a-d19cabddb78c" />
+
 
 ## Installation
 
